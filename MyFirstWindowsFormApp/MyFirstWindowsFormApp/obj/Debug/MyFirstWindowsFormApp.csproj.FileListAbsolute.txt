@@ -1,1 +1,9 @@
 C:\Users\Darshii\Documents\GitHub\MyFirstApp\MyFirstWindowsFormApp\MyFirstWindowsFormApp\bin\Debug\MyFirstWindowsFormApp.exe.config
+C:\Users\Darshii\Documents\GitHub\MyFirstApp\MyFirstWindowsFormApp\MyFirstWindowsFormApp\bin\Debug\MyFirstWindowsFormApp.exe
+C:\Users\Darshii\Documents\GitHub\MyFirstApp\MyFirstWindowsFormApp\MyFirstWindowsFormApp\bin\Debug\MyFirstWindowsFormApp.pdb
+C:\Users\Darshii\Documents\GitHub\MyFirstApp\MyFirstWindowsFormApp\MyFirstWindowsFormApp\obj\Debug\MyFirstWindowsFormApp.csprojResolveAssemblyReference.cache
+C:\Users\Darshii\Documents\GitHub\MyFirstApp\MyFirstWindowsFormApp\MyFirstWindowsFormApp\obj\Debug\MyFirstWindowsFormApp.Form1.resources
+C:\Users\Darshii\Documents\GitHub\MyFirstApp\MyFirstWindowsFormApp\MyFirstWindowsFormApp\obj\Debug\MyFirstWindowsFormApp.Properties.Resources.resources
+C:\Users\Darshii\Documents\GitHub\MyFirstApp\MyFirstWindowsFormApp\MyFirstWindowsFormApp\obj\Debug\MyFirstWindowsFormApp.csproj.GenerateResource.Cache
+C:\Users\Darshii\Documents\GitHub\MyFirstApp\MyFirstWindowsFormApp\MyFirstWindowsFormApp\obj\Debug\MyFirstWindowsFormApp.exe
+C:\Users\Darshii\Documents\GitHub\MyFirstApp\MyFirstWindowsFormApp\MyFirstWindowsFormApp\obj\Debug\MyFirstWindowsFormApp.pdb
